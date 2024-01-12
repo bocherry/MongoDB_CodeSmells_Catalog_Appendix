@@ -1,6 +1,6 @@
 # A Multivocal Mapping Study of MongoDB Smells
 
-Online appendix of the paper "A Multivocal Mapping Study of MongoDB Smells" submitted to the Research Track of [SCAM 2023](https://www.ieee-scam.org/2023/#cfpresearchtrack).
+Online appendix of the paper "A Multivocal Mapping Study of MongoDB Smells" submitted to the Research Track of [SANER 2024](https://conf.researchr.org/home/saner-2024).
 
 # MongoDB Smell Catalog
 
