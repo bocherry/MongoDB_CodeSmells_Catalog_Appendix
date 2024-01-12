@@ -29,3 +29,4 @@ Source code of the static analysis and results on open-source JavaScript project
  - [Detected smell instances](SmellDetection/Results/smells.csv)
  - [Notebook with the results](SmellDetection/Results/Analysis.ipynb)
  
+# TODO Steps to improve replicability
